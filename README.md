@@ -51,7 +51,7 @@ Read this https://github.com/e-Gizmo/ESP-11-WiFi-Shield/blob/master/LUA%20connec
 ## [ESP - 07](http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=29&search=esp)
 ![imgur](http://i.imgur.com/1vnnuUk.png)
 ###### PINOUTS
-![imgur](http://i.imgur.com/T1agj0F.png)
+![Imgur](http://i.imgur.com/I4Ir7NC.png)
 
 ###### [Adaptor] (http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1259&search=esp) Available
 ![Imgur](http://i.imgur.com/5CTw86W.jpg)
